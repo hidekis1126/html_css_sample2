@@ -1,0 +1,76 @@
+body {
+    font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic'
+}
+
+li {
+    list-style: none;
+}
+
+.header {
+    background-color: aquamarine;
+    color: blue;
+    height: 90px;
+}
+
+.header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+}
+
+.header-list li {
+    float: left;
+    padding: 33px 20px;
+}
+
+.main {
+    padding: 50px 30px;
+}
+
+.copy-container h1 {
+    font-size: 100px;
+}
+
+.copy-container h2 {
+    font-size: 40px;
+}
+
+.contents {
+    height: 500px;
+}
+
+.select-animal {
+    border-bottom: 2px solid #dee7ec;
+}
+
+.thumbnail {
+    display: inline-block;
+    height: 80px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.thumbnail img {
+    height: 300px;
+    width: 200px;
+}
+
+.footer {
+    background-color: #2f5167;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+}
+
+.footer-logo {
+    float: left;
+    font-size: 32px;
+}
+
+.footer-list {
+    float: right;
+}
+
+.footer-list li {
+    padding-bottom: 20px;
+}
